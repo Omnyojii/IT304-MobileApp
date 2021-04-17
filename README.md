@@ -6,7 +6,7 @@
 * [Tools & Services](#Tools-&-Services)
 
 ## General info
-This a collection of project for IT214/WebDev
+This a collection of project for IT304/MobileApp
 	
 ## Technologies
 This project is created with:
