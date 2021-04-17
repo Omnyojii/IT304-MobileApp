@@ -11,6 +11,8 @@ This a collection of project for IT304/MobileApp
 ## Technologies
 This project is created with:
 * Cordova
+* Framework7
+* Monaca
 * Bootstrap 3 or 4
 * Javascript
 * JQuery
