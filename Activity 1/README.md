@@ -4,7 +4,7 @@
 
 
 ## App Overview
-![LOL](./images/RSS1.png)
-![LOL](./images/RSS2.png)
-![LOL](./images/RSS3.png)
-![LOL](./images/DropdownMenuOverview.png)
+![LOL](./RSS1.png)
+![LOL](./RSS2.png)
+![LOL](./RSS3.png)
+![LOL](./DropdownMenuOverview.png)
