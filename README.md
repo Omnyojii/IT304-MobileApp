@@ -1,4 +1,4 @@
-# IT214 / Website Development
+# IT304 / Mobile Application
 
 ## Table of contents
 * [General info](#general-info)
