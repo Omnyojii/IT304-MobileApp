@@ -1,4 +1,5 @@
-# Activity 1
+# Final Activity 1
+# RSS Reader
 ## Note: Files are inside RAR
 
 ## Table of contents
