@@ -1,5 +1,5 @@
 # Final Activity 1
-# RSS Reader
+# RSS Feed Reader
 ## Note: Files are inside RAR
 
 ## Table of contents
