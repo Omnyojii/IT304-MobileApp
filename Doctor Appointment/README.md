@@ -11,4 +11,4 @@
 * Social Media Links
 
 ## App Overview
-![LOL](./full-size-screenshot.png)
+![LOL](./FullSizeScreenshot.png)
