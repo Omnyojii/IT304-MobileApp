@@ -28,6 +28,7 @@ This project is created using this tools and services:
 * GitHub
 * Gradle
 * Chrome Browser
+* RSS2JSON API
 
 ## Meme Time (͠≖ ͜ʖ͠≖)
 ![LOL](./t9n1peqgw6751.jpg)
