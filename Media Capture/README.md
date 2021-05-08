@@ -4,7 +4,7 @@
 
 ## Table of contents
 * [Default-View](#Default-View)
-* [With-MediaFile-Properties-Display](#With-JSON-Display)
+* [With-MediaFile-Properties-Display](#With-MediaFile-Properties-Display)
 
 
 ## App Overview
