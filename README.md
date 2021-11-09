@@ -2,7 +2,7 @@
 
 ## Table of contents
 * [General info](#general-info)
-* [Technologies](#technologies)
+* [Technologies](#technologies-/-Tech-Stack)
 * [Tools & Services](#Tools-&-Services)
 
 ## General info
