@@ -7,6 +7,7 @@
 
 ## General info
 This a collection of project for IT304/MobileApp 
+
 by CHRISTOPHER CHRISTIAN B. COSINGAN
 	
 ## Technologies
