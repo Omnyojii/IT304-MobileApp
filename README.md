@@ -6,7 +6,7 @@
 * [Tools & Services](#Tools-&-Services)
 
 ## General info
-This a collection of project for IT304/MobileApp 
+This is a collection of my projects in IT-304 / Mobile App Development
 
 by CHRISTOPHER CHRISTIAN B. COSINGAN
 	
