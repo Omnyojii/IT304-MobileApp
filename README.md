@@ -10,8 +10,7 @@ This is a collection of my projects in IT-304 / Mobile App Development
 
 by CHRISTOPHER CHRISTIAN B. COSINGAN
 	
-## Technologies
-This project is created with:
+## Technologies / Tech Stack
 * Cordova
 * Framework7
 * Monaca
@@ -24,7 +23,6 @@ This project is created with:
 * JAVA
 	
 ## Tools & Services
-This project is created using this tools and services:
 * VSCode
 * FontAwesome
 * GitHub
